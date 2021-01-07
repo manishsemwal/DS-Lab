@@ -1,5 +1,5 @@
 /*Dev C++*/
-/*Create a binary tree having preorder thresds. WAnotherP to traverse the tree in preorder using those threaads*/
+/*Create a binary tree having preorder threads. WAnotherP to traverse the tree in preorder using those threads*/
 
 #include <iostream>
 #include <vector>
